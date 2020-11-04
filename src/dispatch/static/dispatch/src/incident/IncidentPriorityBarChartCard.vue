@@ -64,7 +64,7 @@ export default {
             }
           }
         ],
-        colors: ["#DC143C", "#FFA500", "#FFD700", '#00FFFF', '#00FF00', '#F5F5F5'],
+        colors: ["#DC143C", "#FFA500", "#FFD700", "#00FFFF", "#00FF00", "#F5F5F5"],
         xaxis: {
           categories: this.categoryData || [],
           title: {
